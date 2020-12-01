@@ -1,8 +1,8 @@
 # Femtosecond lasers for life sciences
 
-List of available femtosecond lasers for two-photon microscopy, focused on neuroscience.
+List of available femtosecond lasers for two-photon microscopy
 
-File push request to add / edit info
+File pull request to add / edit info
 
 Contact: me@aandreev.net
 
